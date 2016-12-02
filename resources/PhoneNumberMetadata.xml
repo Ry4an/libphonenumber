@@ -4783,7 +4783,8 @@
              http://www.atci.ci/images/stories/pdf/decisions-dg/decision_002.pdf
              The prefix 75 is from an open-source bug report.
              50 has been removed since Warid seems to have stopped operation in Côte d'Ivoire.
-             Added mobile prefix 89 from user report and online evidence. -->
+             Added mobile prefix 89 from user report and online evidence.
+             Added mobile prefix 88 from user report. -->
           <nationalNumberPattern>
           (?:
             0[1-9]|
@@ -4791,7 +4792,7 @@
             5[14-9]|
             6[015-79]|
             7[578]|
-            8[79]
+            8[789]
           )\d{6}
         </nationalNumberPattern>
         <possibleLengths national="8"/>
